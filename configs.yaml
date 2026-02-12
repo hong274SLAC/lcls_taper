@@ -1,0 +1,7 @@
+---
+name: lcls_taper
+description: "LCLS taper test environment"
+version: "0.1"
+dependencies:
+  - badger-opt
+  - zfel
