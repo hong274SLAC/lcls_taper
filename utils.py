@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def k_taper(k0=3.5, a=0.5, n=200, split_ix=80, powr=2):
+def k_taper(k0=2.55, a=0.05, n=64, split_ix=16, powr=2):
     """
     Build an undulator K taper profile of length n.
 
